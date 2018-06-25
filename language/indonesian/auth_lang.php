@@ -22,12 +22,12 @@
 $lang['error_csrf'] = 'Form yang dikirim tidak lulus pemeriksaan keamanan kami.';
 
 // Login
-$lang['login_heading']         = 'Login';
-$lang['login_subheading']      = 'Silakan login dengan email/username dan password anda.';
-$lang['login_identity_label']  = 'Email/Username:';
+$lang['login_heading']         = 'Masuk';
+$lang['login_subheading']      = 'Silakan masuk dengan surel / nama pengguna dan kata sandi anda.';
+$lang['login_identity_label']  = 'Surel / nama pengguna:';
 $lang['login_password_label']  = 'Kata Sandi:';
 $lang['login_remember_label']  = 'Ingatkan Saya:';
-$lang['login_submit_btn']      = 'Login';
+$lang['login_submit_btn']      = 'Masuk';
 $lang['login_forgot_password'] = 'Lupa Kata Sandi?';
 
 // Index
@@ -35,7 +35,7 @@ $lang['index_heading']           = 'Pengguna';
 $lang['index_subheading']        = 'Di bawah ini list dari para Pengguna.';
 $lang['index_fname_th']          = 'Nama Awal';
 $lang['index_lname_th']          = 'Nama Akhir';
-$lang['index_email_th']          = 'Email';
+$lang['index_email_th']          = 'Surel';
 $lang['index_groups_th']         = 'Grup';
 $lang['index_status_th']         = 'Status';
 $lang['index_action_th']         = 'Aksi';
@@ -128,13 +128,13 @@ $lang['change_password_validation_new_password_confirm_label'] = 'Konfirmasi Kat
 
 // Forgot Password
 $lang['forgot_password_heading']                 = 'Lupa Kata Sandi';
-$lang['forgot_password_subheading']              = 'Silakan masukkan %s anda, agar kami dapat mengirim email untuk mereset Kata Sandi Anda.';
+$lang['forgot_password_subheading']              = 'Silakan masukkan %s anda, agar kami dapat mengirim email untuk mengatur ulang Kata Sandi Anda.';
 $lang['forgot_password_email_label']             = '%s:';
 $lang['forgot_password_submit_btn']              = 'Kirim';
-$lang['forgot_password_validation_email_label']  = 'Alamat Email';
+$lang['forgot_password_validation_email_label']  = 'Alamat Surel';
 $lang['forgot_password_username_identity_label'] = 'Nama Pengguna';
 $lang['forgot_password_email_identity_label']    = 'Email';
-$lang['forgot_password_email_not_found']         = 'Tidak ada data dari email tersebut.';
+$lang['forgot_password_email_not_found']         = 'Tidak ada data dari surel tersebut.';
 $lang['forgot_password_identity_not_found']      = 'Tidak ada data dari nama pengguna tersebut.';
 
 // Reset Password
